@@ -75,3 +75,7 @@ h1{
     font-size: 15px;
     padding-bottom: 30px;
 }
+#profile-link{
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
